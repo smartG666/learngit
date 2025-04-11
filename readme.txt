@@ -1,1 +1,1 @@
-hello
+git is a good thing
